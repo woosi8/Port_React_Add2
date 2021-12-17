@@ -60,6 +60,16 @@ const items = [
 		title: "Annotorious",
 	},
 	{
+		href: "/maptouchs",
+		icon: AppsIcon,
+		title: "MapTouchs",
+	},
+	{
+		href: "/imgSteps",
+		icon: EastIcon,
+		title: "Img-Upload-Steps",
+	},
+	{
 		href: "/loading",
 		icon: ImageIcon,
 		title: "Img-Loading",
@@ -69,20 +79,11 @@ const items = [
 	// 	icon: ImageIcon,
 	// 	title: "Img-Upload",
 	// },
-	{
-		href: "/imgSteps",
-		icon: EastIcon,
-		title: "Img-Upload-Steps",
-	},
+
 	{
 		href: "/plusForm",
 		icon: AddCircleIcon,
 		title: "PlusForm",
-	},
-	{
-		href: "/maptouchs",
-		icon: AppsIcon,
-		title: "MapTouchs",
 	},
 
 	{

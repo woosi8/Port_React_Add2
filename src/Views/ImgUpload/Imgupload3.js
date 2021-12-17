@@ -67,7 +67,7 @@ const Imgupload3 = () => {
 			<Container>
 				<StyledTitle fontWeight={550} variant="subtitle1">
 					비표의 내용과 사진을 확인해 주세요 <br />
-					AT011021212 - 자동용접
+					AT011021212 - 자동인식
 				</StyledTitle>
 				<MultiImg3 />
 
