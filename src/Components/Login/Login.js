@@ -45,6 +45,7 @@ const LoginComponent = (props) => {
 					component="div"
 					fontWeight={600}
 					color="primary"
+					height="100%"
 				>
 					Welcome
 				</Typography>
@@ -54,7 +55,16 @@ const LoginComponent = (props) => {
 					alt="corplogo"
 					style={{ width: "20%", height: "60%" }}
 				/> */}
-				<AppleIcon style={{ fontSize: "10vw", color: "#3f51b5" }} />
+				<img
+					className="img"
+					// ref={imgEl}
+					// width="80%"
+					src="https://hopeful-brown-a1e560.netlify.app/img/logo.svg
+				"
+					alt="Hallstatt Town Square"
+					style={{ width: "40vw" }}
+				/>
+				{/* <AppleIcon style={{ fontSize: "10vw", color: "#3f51b5" }} /> */}
 				<br />
 				<Typography
 					variant="h4"
@@ -62,6 +72,7 @@ const LoginComponent = (props) => {
 					component="div"
 					fontWeight={600}
 					color="primary"
+					height="100%"
 				>
 					Please just click to LOGIN
 				</Typography>

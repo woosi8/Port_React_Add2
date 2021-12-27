@@ -17,8 +17,8 @@ export default function Login(props) {
 			<Box
 				sx={{
 					display: "flex",
-					height: "70%",
-					width: "90%",
+					// height: "70%",
+					// width: "90%",
 					flexDirection: "column",
 				}}
 			>
