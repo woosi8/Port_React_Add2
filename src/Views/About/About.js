@@ -1,8 +1,7 @@
-import MyAccount from "../../Components/Account/MyAccount"
+import MyAccount from "../../Components/Account/MyAccount";
 const About = () => {
-    return (
-        <MyAccount />
-    )
-}
+  console.error("fail merged");
+  return <MyAccount />;
+};
 
-export default About
+export default About;
