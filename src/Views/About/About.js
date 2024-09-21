@@ -1,6 +1,6 @@
 import MyAccount from "../../Components/Account/MyAccount";
 const About = () => {
-  console.log("strage");
+  console.log("abb");
   return <MyAccount />;
 };
 
